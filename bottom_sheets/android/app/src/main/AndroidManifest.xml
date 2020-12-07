@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.swipe_to_delete">
+    package="com.example.bottom_sheets">
    <application
-        android:label="swipe_to_delete"
+        android:label="bottom_sheets"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

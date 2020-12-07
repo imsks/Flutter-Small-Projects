@@ -1,4 +1,4 @@
-package com.example.swipe_to_delete
+package com.example.bottom_sheets
 
 import io.flutter.embedding.android.FlutterActivity
 

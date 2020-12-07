@@ -1,4 +1,4 @@
-# swipe_to_delete
+# bottom_sheets
 
 A new Flutter project.
 
