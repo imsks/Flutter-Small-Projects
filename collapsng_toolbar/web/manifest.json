@@ -1,6 +1,6 @@
 {
-    "name": "bottom_sheets",
-    "short_name": "bottom_sheets",
+    "name": "collapsng_toolbar",
+    "short_name": "collapsng_toolbar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

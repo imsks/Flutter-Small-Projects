@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bottom_sheets">
+    package="com.example.collapsng_toolbar">
    <application
-        android:label="bottom_sheets"
+        android:label="collapsng_toolbar"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

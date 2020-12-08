@@ -1,4 +1,4 @@
-package com.example.bottom_sheets
+package com.example.collapsng_toolbar
 
 import io.flutter.embedding.android.FlutterActivity
 
